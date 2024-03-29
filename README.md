@@ -1,12 +1,12 @@
 
-#Tour-and-Tour Website
+# Tour-and-Tour Website
 
-## Here's features included in this project
+## Here are features included in this project
 
 - Home Page
 - Booking Page
-- Show Differnt Types of Pakage 
-- Show Servies of Tour Providing
+- Show different types of Package 
+- Show services of Tour Providing
 - Gallery Page
 - Review Page
 - Contact Page
@@ -22,14 +22,14 @@
 2. CSS
 3. JavaScript
 
-## Screenshots
 
-![Screenshot (130)](https://user-images.githubusercontent.com/69588336/216385800-65c19700-c06d-4be4-aecc-8a7eeb3cf6b8.png)
-![Screenshot (122)](https://user-images.githubusercontent.com/69588336/216386102-c5f1774d-c47d-4532-9a53-443e24fc7955.png)
-![Screenshot (123)](https://user-images.githubusercontent.com/69588336/216386128-0732c555-f131-434c-bbe4-ba667b3feaf3.png)
-![Screenshot (124)](https://user-images.githubusercontent.com/69588336/216386194-7fe82dd9-815c-4794-9378-d3e14187ed7d.png)
-![Screenshot (125)](https://user-images.githubusercontent.com/69588336/216386258-9c350f6e-8dc0-4cac-a9c2-a807221d33c8.png)
-![Screenshot (126)](https://user-images.githubusercontent.com/69588336/216386296-529d5ee4-1f9e-45da-b3a9-5bec3b36cf8f.png)
-![Screenshot (127)](https://user-images.githubusercontent.com/69588336/216386321-d9844f2f-1a64-4b9f-ae45-135a4efc50b3.png)
-![Screenshot (128)](https://user-images.githubusercontent.com/69588336/216386351-897cecc8-6ba1-4768-88c3-c3384db25eac.png)
-![Screenshot (129)](https://user-images.githubusercontent.com/69588336/216386377-93cb241a-89a1-4113-9e3c-160dcf088167.png)
+## Setup and Usage
+
+1. Clone the repository to your local machine.
+2. Open the ```index.html``` file in a web browser to launch the application.
+3. Use the form to add new tasks, and the provided buttons to edit, delete, 
+   complete, or sort and filter the task list.
+   
+## URL
+
+URL: https://anjali-kushwaha.github.io/Tour-and-Travel-website/
